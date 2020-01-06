@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/davi13/monsters-app-react/static/css/main.95fa1b74.chunk.css",
+    "main.js": "/davi13/monsters-app-react/static/js/main.54522710.chunk.js",
+    "main.js.map": "/davi13/monsters-app-react/static/js/main.54522710.chunk.js.map",
+    "runtime-main.js": "/davi13/monsters-app-react/static/js/runtime-main.01e3e525.js",
+    "runtime-main.js.map": "/davi13/monsters-app-react/static/js/runtime-main.01e3e525.js.map",
+    "static/js/2.f543c7dd.chunk.js": "/davi13/monsters-app-react/static/js/2.f543c7dd.chunk.js",
+    "static/js/2.f543c7dd.chunk.js.map": "/davi13/monsters-app-react/static/js/2.f543c7dd.chunk.js.map",
+    "index.html": "/davi13/monsters-app-react/index.html",
+    "precache-manifest.3d37970317439d8037b8920fd4893a8a.js": "/davi13/monsters-app-react/precache-manifest.3d37970317439d8037b8920fd4893a8a.js",
+    "service-worker.js": "/davi13/monsters-app-react/service-worker.js",
+    "static/css/main.95fa1b74.chunk.css.map": "/davi13/monsters-app-react/static/css/main.95fa1b74.chunk.css.map",
+    "static/js/2.f543c7dd.chunk.js.LICENSE": "/davi13/monsters-app-react/static/js/2.f543c7dd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e3e525.js",
+    "static/js/2.f543c7dd.chunk.js",
+    "static/css/main.95fa1b74.chunk.css",
+    "static/js/main.54522710.chunk.js"
+  ]
+}
